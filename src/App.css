@@ -286,7 +286,39 @@ body {
 .footer-links { display: flex; justify-content: center; gap: 30px; margin-top: 15px; }
 .footer-links a { color: #fff; text-decoration: none; }
 
-/* Scrollbar */
-::-webkit-scrollbar { width: 5px; }
-::-webkit-scrollbar-track { background: var(--sid-dark); }
-::-webkit-scrollbar-thumb { background: var(--sid-yellow-dim); }
+/* Responsive */
+@media (max-width: 768px) {
+  .sidian-container {
+    padding: 0 15px;
+  }
+
+  .header-content {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .header-stats {
+    align-items: center;
+  }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sid-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .part-item {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .caution-bg {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+}
+
