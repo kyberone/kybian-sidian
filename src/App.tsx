@@ -149,7 +149,7 @@ function App() {
       <footer className="sid-footer">
         <div className="caution-border bottom" />
         <div className="footer-content">
-          <p>© 342 AF SIDIAN CONSORTIUM // INDUSTRIAL UNION 09</p>
+          <p>© 52 AF SIDIAN CONSORTIUM // INDUSTRIAL UNION 09</p>
           <div className="footer-links">
             <a href="https://kybian.com">HUB</a>
             <a href="#safety">SAFETY</a>

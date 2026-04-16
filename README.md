@@ -17,4 +17,4 @@ The Sidian Consortium is the galaxy's premier industrial salvage and heavy-minin
 Check your Grit-Walker seals before entering the Shallows. Glass Lung is a non-reimbursable condition. Glory to the Union.
 
 ---
-*© 342 AF SIDIAN CONSORTIUM // INDUSTRIAL UNION 09*
+*© 52 AF SIDIAN CONSORTIUM // INDUSTRIAL UNION 09*
