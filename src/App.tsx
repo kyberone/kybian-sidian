@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import { motion } from 'framer-motion';
 import { Hammer, Settings, Construction, Truck, AlertTriangle, Cpu, Activity, Wrench, Package } from 'lucide-react';
 import './App.css';
 
