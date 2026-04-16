@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { Hammer, HardHat, Pickaxe, Settings, Construction, Truck, AlertTriangle, Cpu, Zap, Activity, Wrench, Package } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { motion } from 'framer-motion';
+import { Hammer, Settings, Construction, Truck, AlertTriangle, Cpu, Activity, Wrench, Package } from 'lucide-react';
 import './App.css';
 
 const initialParts = [
